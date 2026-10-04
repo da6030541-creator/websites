@@ -1,3 +1,5 @@
+FreeFire2022Indian-server-32bit.xapk (1).zip
+1	Cannot open output file : errno=13 : Permission denied : /storage/emulated/0/Android/obb/com.dts.freefireth/main.2019114970.com.dts.freefireth.obb
 # User manual
 
 [[toc]]
